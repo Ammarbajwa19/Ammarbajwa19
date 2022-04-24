@@ -3,6 +3,3 @@
 - 🌱 I’m currently learning Flutter Dart language.
 - 💞️ I’m looking to collaborate at  Kotlin / Swift.
 - 📫 How to reach me twitter- @AmmarBajwa79, medium- @ammarbajwah.
--
-
-
