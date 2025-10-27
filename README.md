@@ -1,11 +1,31 @@
-### 👋 Hi, I’m @Ammarbajwa19  
+👋 Hi, I’m @Ammarbajwa19
 
-- 👀 I’m interested in *Flutter Development* and *Software Engineering*.  
-- 🌱 I’m currently learning *Flutter (Dart)* and *Firebase* to build full-stack mobile apps.  
-- 💞 I’m looking to collaborate on projects involving *Kotlin, **Swift, or **Cloud Computing*.  
-- 🧠 I also have hands-on experience in *Python, **CI/CD pipelines, and **backend automation*.  
-- 📫 How to reach me:  
-  - 🐦 Twitter: [@AmmarBajwa79](https://twitter.com/AmmarBajwa79)  
-  - ✍ Medium: [@ammarbajwah](https://medium.com/@ammarbajwah)  
-  - 💼 LinkedIn: [Ammar Bajwa](https://www.linkedin.com/in/ali-ammar-b506271ab/)  
-  - 💻 GitHub Portfolio: [github.com/Ammarbajwa19](https://github.com/Ammarbajwa19)
+🚀 Innovative Cloud & ML Developer passionate about building data-driven and scalable solutions.
+
+🧠 Skilled in Python, FastAPI, Machine Learning, and Cloud Platforms like AWS and Azure.
+
+💡 I enjoy designing and deploying intelligent systems that bridge data, automation, and performance.
+
+🌱 Currently expanding my expertise in MLOps, Serverless Cloud Functions, and AI-based APIs.
+
+💞 Looking to collaborate on open-source and enterprise projects focused on cloud architecture, data pipelines, and ML model deployment.
+
+🛠 My toolkit includes:
+
+Languages: Python, Dart (Flutter)
+
+Cloud: AWS, Azure, Firebase
+
+Frameworks: FastAPI, Flask
+
+Tools: Docker, Git, CI/CD Pipelines
+
+📫 Reach me at:
+
+🐦 Twitter @AmmarBajwa79
+
+✍ Medium @ammarbajwah
+
+💼 LinkedIn: Ammar Bajwa
+
+💻 GitHub Portfolio
